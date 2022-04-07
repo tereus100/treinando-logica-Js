@@ -15,7 +15,7 @@ function saudacao() {
 	console.log("Oi, eu sou o Goku!");
 
 	}
-
+saudacao()
 
 
 function multiplica (vA, vB) {
