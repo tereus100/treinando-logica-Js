@@ -34,6 +34,7 @@ function podeDirigir(idade) {
 	console.log("Você não pode dirigir");
  }
 	}
+	
 
 for (let i = 0; i <= 20; i++) {
   console.log(i);
@@ -44,6 +45,8 @@ for (let i = 0; i <= 20; i++) {
     console.log(i);
   }
 }
+podeDirigir(17);
+podeDirigir(20);
 
 
 
